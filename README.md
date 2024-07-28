@@ -1,0 +1,1 @@
+This is a project from the Frontendpractice.com [Ableton-challenge](https://www.frontendpractice.com/projects/ableton). Design-credit goes to the [Ableton website](https://www.ableton.com/en/about/), obviously.
